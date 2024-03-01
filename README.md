@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a PhD candidate in experimental particle Physics at the University of Victoria. I'm currently working with the Belle II collaboration on measuring the cross section of $e^+e^- \rightarrow \pi^+\pi^-$ at the full SuperKEKB energy of $\sqrt(s)=10.58$ GeV.
+I'm a PhD candidate in experimental particle Physics at the University of Victoria. I'm currently working with the Belle II collaboration on measuring the cross section of $e^+e^- \rightarrow \pi^+\pi^-$ at the full SuperKEKB energy of $\sqrt{s}=10.58$ GeV.
 
 <!--
 **alexandrebeaubien/alexandrebeaubien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
