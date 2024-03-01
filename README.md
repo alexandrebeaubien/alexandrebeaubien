@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a PhD candidate in experimental particle Physics at the University of Victoria. I'm currently working on measuring the cross section of $e^+$
+
 <!--
 **alexandrebeaubien/alexandrebeaubien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
